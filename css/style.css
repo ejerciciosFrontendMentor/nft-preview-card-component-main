@@ -33,6 +33,9 @@ body {
 	background-color: var(--color-VerydarkblueMainBg);
 	font-family: 'Outfit', sans-serif;
 }
+.accesibilidad{
+	display:none;
+}
 .card {
 	width: 20rem;
 	background-color: var(--color-VerydarkblueCardB);
